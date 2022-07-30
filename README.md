@@ -1,7 +1,8 @@
 # Python-NBA球员数据分析
 ### 项目概况
-开发环境：python3.9
-集成开发环境：PyCharm
+开发环境：python3.9  
+集成开发环境：PyCharm  
+
 前置准备-导入相应的库：numpy，pandas，matplotlib，requests，lxml，csv
 ### 项目描述
 1.运用python语言的优势，去实现爬虫模块，这里主要使用xpath的解析方式，爬取虎扑页面NBA球员的各项数据指标。
